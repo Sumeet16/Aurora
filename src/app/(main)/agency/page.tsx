@@ -17,7 +17,7 @@ const Page = async () => {
 
 
   return (
-    <div>Agency Dashboard</div>
+    <div>Agency</div>
   )
 }
 
